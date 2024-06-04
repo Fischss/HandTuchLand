@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Users\lokip\Desktop\Schule\ue1\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1974071122.index
